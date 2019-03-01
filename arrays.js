@@ -37,3 +37,4 @@ function removeElementFromBeginningOfArray(a) {
   return na
 }
 
+
